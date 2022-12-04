@@ -1,6 +1,10 @@
 # Python
 List of programs of different uses and applications in Python.
 
+You can translate the list using [Google Translator Website Section](https://translate.google.com/?sl=en&op=websites) *(not the code, it can be modified and be wrong)*.
+
+- - -
+
 1. [Area of a circle given its radius](/hub/app1.py)
 2. [Second-degree equations](/hub/app2.py)
 3. [Factorial of an integer](/hub/app3.py)
