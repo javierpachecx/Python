@@ -1,7 +1,7 @@
 # Python
 List of programs of different uses and applications in Python.
 
-You can translate the list using [Google Translator Website Section](https://translate.google.com/?sl=en&op=websites){:target="_blank"} *(not the code, it can be modified and be wrong)*.
+You can translate the list using <a href="https://translate.google.com/?sl=en&op=websites" target="_blank">Google Translator Website Section</a> *(not the code, it can be modified and be wrong)*.
 
 - - -
 
