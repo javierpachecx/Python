@@ -36,3 +36,7 @@ You can translate the list using <a href="https://translate.google.com/?sl=en&op
 29. [Calculation of probabilities and statistics in different types of randomised experiments](/hub/app29.py)
 30. [Calculating the shortest distance between two points on a graph or map](/hub/app30.py)
 31. [Calculating the trajectory of a moving object under the influence of different forces](/hub/app31.py)
+32. [Determining the value of a function at a given point using the bisection method](/hub/app32.py)
+33. [Solving a system of linear equations by Gaussian elimination](/hub/app33.py)
+34. [Solving a trigonometric equation](/hub/app34.py)
+35. [Solving a higher order differential equation](/hub/app35.py)
